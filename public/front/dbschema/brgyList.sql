@@ -1,0 +1,13 @@
+﻿--insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Central Signal Village', 1, now(), 1);
+--insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Katuparan Village', 1, now(), 1);
+--insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('North Signal Village', 1, now(), 1);
+--insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('South Signal Village', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('EP Housing Phase 1', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Phase 2 Pinagsama', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Creekland', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Dreamland', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Engineer Hills', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Hagonoy', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Lower Bicutan', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('Upper Bicutan', 1, now(), 1);
+insert into brgyName (brgyName, townCityId, creationDate, dataEncoder) values ('AFPOVAI', 1, now(), 1);
